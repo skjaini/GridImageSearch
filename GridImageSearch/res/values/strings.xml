@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Google Image Searcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search_hint">Enter Search Term</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="title_activity_search_options">SearchOptionsActivity</string>
+    <string name="adv_txt">Advanced search options</string>
+    <string name="img_sz_txt">Image Size</string>
+    <string name="clr_fltr_txt">Color Filter</string>
+    <string name="img_type_txt">Image Type</string>
+    <string name="site_fltr_txt">Site filter</string>
+
+    <string-array name="img_size_array">
+        <item></item>
+        <item>icon</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>xlarge</item>
+        <item>xxlarge</item>
+        <item>huge</item>
+    </string-array>
+    
+    <string-array name="img_color_array">
+        <item></item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+    
+    <string-array name="img_type_array">
+        <item></item>
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+        <string name="btn_save">Save</string>
+        <string name="btn_next">Next</string>
+        <string name="btn_prev">Previous</string>
+        <string name="btn_search">Search</string>
+</resources>
